@@ -1,7 +1,9 @@
 # 🚀 ระบบควบคุมปั้มน้ำอัตโนมัติ (Project Name)
 เป็นการควบคุมการเปิดปิดปั้มน้ำอัตโนมัติด้วยรีเลย์และเซนเซอร์วัดความซื้นในดินโดยมีหน้าจอ OLED แสดงผล
 ## 📸 ตัวอย่างหน้าตาโปรเจกต์ (Screenshots / GIF)
-<img width="1186" height="665" alt="Screenshot 2026-10-26 225218" src="https://github.com/user-attachments/assets/4d0ec5d1-ff6c-4dfa-9e50-0aad3c664828" />
+
+<img width="1186" height="665" alt="Screenshot 2026-10-26 225218" src="https://github.com/user-attachments/assets/b861320b-d124-4b84-aa7e-978c57590643" />
+
 ## ✨ ฟีเจอร์หลัก (Key Features)
 
 เวลาที่ค่าความชื้นในดินมีน้อยระบบจะเปิดปั้มน้ำอัตโนมัติ
