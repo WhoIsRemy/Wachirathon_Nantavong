@@ -20,4 +20,3 @@
   * OLED Display (หน้าจอแสดงผล)
   * Relay Module (โมดูลรีเลย์ควบคุมอุปกรณ์ไฟฟ้า)
 * **Cloud & Protocol:** ThingSpeak (สำหรับส่งข้อมูลขึ้นคลาวด์),Wi-Fi
-* ** CODE:**
