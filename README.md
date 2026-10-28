@@ -26,7 +26,7 @@
 เสร็จครับ
 ## 📸 ตัวอย่างหน้าตาโปรเจกต์ (Screenshots / GIF)
 
-<img width="1186" height="665" alt="Screenshot 2026-10-26 225218" src="https://github.com/user-attachments/assets/b861320b-d124-4b84-aa7e-978c57590643" />
+<img width="1906" height="914" alt="game hub" src="https://github.com/user-attachments/assets/d5da3cdf-c7ed-4c78-b7dd-144fea60cbb7" />
 
 ## ✨ ฟีเจอร์หลัก (Key Features)
 
