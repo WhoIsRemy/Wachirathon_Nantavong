@@ -60,6 +60,9 @@ A website created to share personal game reviews and recommendations. It helps v
 
 ### 2. Automatic Plant Watering System
 
+![Uploading IMG_5233.png…]()
+
+
 **Category:** Electronics / IoT  
 **Technologies:** ESP8266, Arduino IDE, C/C++
 
