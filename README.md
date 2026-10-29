@@ -139,9 +139,12 @@ The concept focuses on combining environmental information with route planning t
 
 *This project is a design concept, not a claim of a fully implemented navigation system.*
 
-##🎬 Project Video Demonstrations
+## 🎬 Project Video Demonstrations
 
 Welcome to my project demonstration gallery. The videos below showcase my projects, development process, and practical applications of the technologies I have learned.
+
+<img width="1000" height="1000" alt="qrcode_421322808_0ca6b73da479689e5060b7e53cf5bc0c (1)" src="https://github.com/user-attachments/assets/52dff897-b296-4839-9300-232f7298b680" />
+
 
 ## 📚 What I Am Learning
 
