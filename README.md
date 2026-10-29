@@ -32,6 +32,9 @@ My current interests include:
 
 ### 1. Game Review Website
 
+<img width="1361" height="1047" alt="Screenshot 2026-10-27 165644" src="https://github.com/user-attachments/assets/eddde484-5290-4389-b925-b8ce6468db86" />
+
+
 **Category:** Web Development  
 **Technologies:** HTML, CSS
 
