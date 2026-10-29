@@ -50,6 +50,5 @@
 
 ## 🛠 Tech Stack
 
-* **HTML**
-* **Internal CSS**
+* **THUNKABLE**
   
