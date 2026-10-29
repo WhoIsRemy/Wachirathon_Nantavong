@@ -65,5 +65,5 @@
 
 ## 🛠 Tech Stack
 
-* **Figma.com*
+* **Figma.com**
   
