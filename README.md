@@ -60,7 +60,8 @@ A website created to share personal game reviews and recommendations. It helps v
 
 ### 2. Automatic Plant Watering System
 
-![Uploading IMG_5233.png…]()
+<img width="1320" height="739" alt="image" src="https://github.com/user-attachments/assets/fa4a92ae-c56c-404c-842d-965a58a2bbc4" />
+
 
 
 **Category:** Electronics / IoT  
@@ -88,6 +89,10 @@ An automated watering project designed to monitor soil moisture and control a wa
 
 ### 3. Area Calculator
 
+<img width="396" height="686" alt="image" src="https://github.com/user-attachments/assets/cda3615b-7163-494c-9626-15fff4cefef8" />
+<img width="1248" height="791" alt="image" src="https://github.com/user-attachments/assets/39fcca9e-a442-43cc-80af-4fdb9aeb3198" />
+
+
 **Category:** Programming / Application Development  
 **Technology:** Thunkable
 
@@ -110,6 +115,8 @@ An educational application designed to calculate the areas of squares or rectang
 - Improve the interface and display calculation results more clearly
 
 ### 4. Smart Air Campus
+
+<img width="533" height="236" alt="Portfolio " src="https://github.com/user-attachments/assets/a5a02cb0-314e-4d74-88a1-c611bfa85d24" />
 
 **Category:** UI/UX Design / Concept Application  
 **Tool:** Figma
